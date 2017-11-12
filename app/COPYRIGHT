@@ -1,0 +1,48 @@
+App       : Apijs
+License   : GNU GPL 2 (https://opensource.org/licenses/gpl-2.0)
+Copyright : 2008-2017 Fabrice Creuzot (luigifab) <code@luigifab.info>
+Website   : http://www.luigifab.info/apijs
+
+All files (including documentation and translations) are licensed under the terms of GNU GPL 2.0+ license.
+That being said, some files come from other projects and are under other licenses.
+
+All external links (different from luigifab.info), the logos, the brands, the commercial names, the graphics...
+used are the property of their respective owners.
+
+### apijs
+
+Files: /fonts/apijs/fontello.woff /fonts/apijs/fontello.woff2
+Source: http://fontello.com/
+License: SIL / https://opensource.org/licenses/ofl-1.1
+
+In file: /javascripts/main.js - objectFitImages
+Source: https://github.com/bfred-it/object-fit-images (2.5.9)
+Copyright: 2016 Federico Brigante
+License: MIT / https://opensource.org/licenses/mit
+
+### documentation
+
+Files: /app/cssmin.php /app/jsmin.php
+Source: https://github.com/mrclay/minify (2.3.0)
+
+File: /app/useragentparser.php
+Source: https://github.com/donatj/PhpUserAgent (0.5.1)
+Copyright: 2013 Jesse G. Donat <donatj@gmail.com>
+License: MIT / https://opensource.org/licenses/mit
+
+Files: /fonts/fontello.woff /fonts/fontello.woff2
+Source: http://fontello.com/
+License: SIL / https://opensource.org/licenses/ofl-1.1
+
+File: /fonts/schoolboy-text.ttf
+Source: http://kde-look.org/content/show.php/SchoolBoy+Text+%5Bupdated%5D?content=110806
+Copyright: 2009 Ctalk & Simunic
+License: Creative Commons 3.0 BY / https://creativecommons.org/licenses/by/3.0/
+
+File: /media/photo/cosmos.jpg
+Source: https://commons.wikimedia.org/wiki/File:Messier_74_by_HST.jpg
+Copyleft: Public domain
+
+Files: /media/*/604*
+Copyright: 2014 Fabrice Creuzot
+License: Creative Commons 3.0 BY-NC-SA / https://creativecommons.org/licenses/by-nc-sa/3.0/
